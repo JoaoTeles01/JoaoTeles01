@@ -2,7 +2,7 @@
 
 - 💻 Hoje trabalho com Back-End
 - 🛠️ Estudando Python/Java
-- 💬 Contate-me no email: rodriguesteles98@gmail.com / 
+- 💬 Contate-me no email: rodriguesteles98@gmail.com 
 - 😄 Pronouns: ele/dele
 
 
