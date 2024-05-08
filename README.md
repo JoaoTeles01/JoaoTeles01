@@ -3,7 +3,6 @@
 - 💻 Hoje trabalho com Back-End
 - 🛠️ Estudando Python/Java
 - 💬 Contate-me no email: rodriguesteles98@gmail.com 
-- 😄 Pronouns: ele/dele
 
 
 ![João Teles GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoTeles01&show_icons=true&theme=dark)
