@@ -5,8 +5,8 @@
 - 💬 Contate-me no email: rodriguesteles98@gmail.com 
 
 
-![João Teles GitHub stats](https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=&show_icons=true&theme=dark\&layout=compact)
+![João Teles GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoTeles01&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoTeles01&show_icons=true&theme=dark\&layout=compact)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Joao.Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
