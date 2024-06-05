@@ -1,4 +1,4 @@
-### Olá!! Eu sou João Teles 👋
+### Olá!! Me chamo João Teles 👋
 
 - 💻 Hoje trabalho com Back-End
 - 🛠️ Estudando Python/Java
